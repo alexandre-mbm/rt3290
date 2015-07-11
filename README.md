@@ -14,6 +14,8 @@ Licenças variam para cada branch. O `master` não terá código.
 
 Nossos branches específicos:
 - `dev` ‒ usado para desenvolver um futuro `ubuntu-15.04`, o qual proverá releases **\*.deb**
+- `gh-pages` ‒ página do projeto auto-gerada, ou redirecionamento JS para um release
+
 
 [wiki]: ./../wiki
 [issues]: ./../issues
