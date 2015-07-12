@@ -12,3 +12,9 @@
 
 modules.order
 Module.symvers
+
+# Checkinstall files
+
+backup-*.tgz
+description-pak
+*.deb
