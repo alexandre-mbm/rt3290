@@ -5,10 +5,10 @@ Todo a síntese de conhecimento mais relevante é feita no [wiki].
 Questões devem ser trabalhadas nas [issues].
 
 O padrão de nomes para os branches de referência:
-- `source-REPOORIGINAL`
-- `source-REPOORIGINAL-BRANCHORIGINAL`
-- `source-REPOORIGINAL-BRANCHORIGINAL-fork` (sinalizando nosso fork)
-- `source-REPOORIGINAL-BRANCHORIGINAL-fork-NOSSOBRANCH` (sinalizando nosso fork)
+- `source_REPOORIGINAL`
+- `source_REPOORIGINAL_BRANCHORIGINAL`
+- `source_REPOORIGINAL_BRANCHORIGINAL_fork` (sinalizando nosso fork)
+- `source_REPOORIGINAL_BRANCHORIGINAL_fork_NOSSOBRANCH` (sinalizando nosso fork)
 
 Licenças variam para cada branch. O `master` não terá código.
 
