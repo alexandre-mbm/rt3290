@@ -3,9 +3,12 @@
 *.ko
 *.ko.cmd
 
-modules.order
+*.mod.c
 
 *.o
 *.o.cmd
 
 .tmp_versions/
+
+modules.order
+Module.symvers
